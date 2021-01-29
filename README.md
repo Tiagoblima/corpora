@@ -1,9 +1,4 @@
-# Corpora 
-
-It is a repository to archive some dataset for Language Classification, Text Classification and related tasks
-
-*Bible Corpus*
-This dataset provides randomly sorted verses from the Bible in 27 different languages. 26 of them are Brazilian indigenous native. Also, there is one version in Portuguese-br. the original source is: https://www.mysword.info/download-mysword/bibles
+# Text Corpus for Language Simplification in Portuguese 
 
 *Processos.csv*
 Are textual information from the Dados Abertos API from the TCE-PE 
